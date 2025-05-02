@@ -14,13 +14,13 @@ Key features:
 
 ->📄 Sample documents include:
 
-o Health Insurance Coverage Status by Geography (2021–2022)
+    o Health Insurance Coverage Status by Geography (2021–2022)
 
-o Poverty in States and Metropolitan Areas (2022)
+    o Poverty in States and Metropolitan Areas (2022)
 
-o Household Income in States and Metro Areas (2022)
+    o Household Income in States and Metro Areas (2022)
 
-o Occupation, Earnings, and Job Characteristics
+    o Occupation, Earnings, and Job Characteristics
 
 Ideal for:
 
